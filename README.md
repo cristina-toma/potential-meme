@@ -1,4 +1,4 @@
 # potential-meme
-Demo updated
+Demo description updated
 
 ## Update 2
